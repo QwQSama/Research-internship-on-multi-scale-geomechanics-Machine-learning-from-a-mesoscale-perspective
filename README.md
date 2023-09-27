@@ -1,1 +1,0 @@
-# Research-internship-on-multi-scale-geomechanics-Machine-learning-from-a-mesoscale-perspective
